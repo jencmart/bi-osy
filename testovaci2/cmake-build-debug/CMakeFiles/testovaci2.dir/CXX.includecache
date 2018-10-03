@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/fitcvut/bi-osy/testovaci2/main.cpp
+cstdio
+-
+cstdlib
+-
+stdint.h
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+vector
+-
+deque
+-
+algorithm
+-
+unistd.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/c02_du.dir/main.cpp.o  -o c02_du 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/testovaci2.dir/main.cpp.o  -o testovaci2 

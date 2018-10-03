@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/c02.dir/main.cpp.o  -o c02 

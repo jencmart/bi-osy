@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/fitcvut/bi-osy/c02/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+thread
+-
+cmath
+-
+zconf.h
+-
+mutex
+-
+
